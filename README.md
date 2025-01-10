@@ -7,3 +7,11 @@ This repository provides an implementation of an image-based search system using
 - Feature Extraction: Uses ResNet50 pre-trained on ImageNet to extract feature embeddings.
 - Image Search: Employs the k-Nearest Neighbors (kNN) algorithm for finding similar images.
 - Visualization: Displays the query image and its top-k similar images.
+
+## Requirements
+To run the code, install the following dependencies:
+
+```bash
+pip install numpy tensorflow scikit-learn matplotlib opencv-python
+```
+
