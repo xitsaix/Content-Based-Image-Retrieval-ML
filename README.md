@@ -15,3 +15,6 @@ To run the code, install the following dependencies:
 pip install numpy tensorflow scikit-learn matplotlib opencv-python
 ```
 
+# Usage
+1. Preprocessing and Feature Extraction
+The Preprocessing and Feature Extraction step involves extracting features from all images in the dataset.
