@@ -21,3 +21,6 @@ The Preprocessing and Feature Extraction step involves extracting features from 
 
 2. Indexing and Search Implementation
 The Indexing and Search Implementation step involves loading preprocessed features and paths to perform a similarity search.
+
+3. Display Search Results
+Visualize the query image along with the top-k similar images
