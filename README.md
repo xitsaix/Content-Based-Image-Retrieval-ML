@@ -24,3 +24,7 @@ The Indexing and Search Implementation step involves loading preprocessed featur
 
 3. Display Search Results
 Visualize the query image along with the top-k similar images
+
+
+## Dataset
+Place dataset in the ./datasets directory. The system supports images in .jpg, .jpeg, or .png formats.
