@@ -28,3 +28,6 @@ Visualize the query image along with the top-k similar images
 
 ## Dataset
 Place dataset in the ./datasets directory. The system supports images in .jpg, .jpeg, or .png formats.
+
+## How to Run
+To run the system, follow these steps:
