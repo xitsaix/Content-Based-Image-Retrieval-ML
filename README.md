@@ -33,3 +33,4 @@ Place dataset in the ./datasets directory. The system supports images in .jpg, .
 To run the system, follow these steps:
 1. Run the feature extraction script
 2. Use the indexing and search script to query similar images.
+3. Visualize the results with the provided show_images function.
